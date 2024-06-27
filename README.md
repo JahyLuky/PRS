@@ -1,6 +1,6 @@
-# Applied Statistics Methods Repository
+# Applied Statistics Methods Repository in R
 
-Welcome to my repository showcasing practical applications of statistical methods using the R language. This repository demonstrates proficiency in various data analysis techniques, including regression analysis, analysis of variance (ANOVA), correlation analysis, and non-parametric methods.
+Welcome to my repository showcasing practical applications of statistical methods using the R language. This repository demonstrates proficiency in various data analysis techniques, including regression analysis, analysis of variance (ANOVA), correlation analysis, and non-parametric methods, all implemented in R.
 
 ## Features
 
@@ -18,7 +18,7 @@ Utilize statistical tests that do not assume a specific distribution of the data
 
 ### Statistical Environment: R Programming
 
-Implementing these methods in R, I illustrate data manipulation, visualization, and modeling techniques on real-world datasets.
+Implementing these methods in R, I illustrate data manipulation, visualization, and modeling techniques on real-world datasets. This repository serves as a practical guide for leveraging statistical methods in R for data-driven decision-making.
 
 ## Practical Applications
 
@@ -35,4 +35,4 @@ Examples include:
 
 ## Conclusion
 
-This repository serves as a practical guide for leveraging statistical methods in R for data-driven decision-making. Whether you are exploring relationships, analyzing variances, or testing hypotheses, these examples will help you navigate the complexities of real-world data analysis using R.
+This repository not only showcases practical applications of statistical methods but also serves as a learning resource for mastering R programming concepts essential for data analysis. Whether you are exploring relationships, analyzing variances, or testing hypotheses, these examples will help you navigate the complexities of real-world data analysis using R.
