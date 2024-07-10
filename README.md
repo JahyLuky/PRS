@@ -36,3 +36,7 @@ Examples include:
 ## Conclusion
 
 This repository not only showcases practical applications of statistical methods but also serves as a learning resource for mastering R programming concepts essential for data analysis. Whether you are exploring relationships, analyzing variances, or testing hypotheses, these examples will help you navigate the complexities of real-world data analysis using R.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
